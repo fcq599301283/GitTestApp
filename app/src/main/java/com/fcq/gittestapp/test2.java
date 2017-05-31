@@ -5,6 +5,5 @@ package com.fcq.gittestapp;
  * on 2017/5/31
  */
 
-public class testBranch {
-    //test 2
+public class test2 {
 }
