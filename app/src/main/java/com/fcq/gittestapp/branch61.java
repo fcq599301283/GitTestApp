@@ -6,8 +6,5 @@ package com.fcq.gittestapp;
  */
 
 public class branch61 {
-    //...oo
-    //...jj
-    //test
-    //myBranch2
+    //test2
 }
