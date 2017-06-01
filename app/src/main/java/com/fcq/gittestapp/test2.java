@@ -6,5 +6,5 @@ package com.fcq.gittestapp;
  */
 
 public class test2 {
-//    new branch
+//    new branch ...
 }
